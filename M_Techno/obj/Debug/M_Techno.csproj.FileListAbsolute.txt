@@ -1,0 +1,43 @@
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\MAAYA\bin\Debug\M_Techno.exe.config
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\bin\Debug\M_Techno.exe.config
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\bin\Debug\M_Techno.exe
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\bin\Debug\M_Techno.pdb
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\bin\Debug\Renci.SshNet.dll
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.AllItems.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.forgetPassword.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.Income.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.login.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.ManageStock.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.Nortification.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.Order.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.OrderDetails.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.Reports.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.Sales.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.Distributors.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.users.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.welocome.resources
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.csproj.GenerateResource.Cache
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.exe
+C:\Users\ASUS\OneDrive\Desktop\M_Techno\M_Techno\obj\Debug\M_Techno.pdb
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\bin\Debug\M_Techno.exe.config
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.csprojResolveAssemblyReference.cache
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.AllItems.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.forgetPassword.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.Income.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.login.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.ManageStock.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.Nortification.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.Order.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.OrderDetails.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.Reports.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.Sales.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.Distributors.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.users.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.welocome.resources
+E:\Assignment\WAD\Dimuthu Nuwan (KGHNDCSE1106) WAD\M_Techno\M_Techno\obj\Debug\M_Techno.csproj.GenerateResource.Cache
